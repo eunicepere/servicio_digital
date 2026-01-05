@@ -1,0 +1,1 @@
+Página web HTML profesional para servicios digitales, ideal para presentar un negocio y captar clientes. Diseño responsive, secciones claras y entrega con control total al comprador, editable y lista para usar.
