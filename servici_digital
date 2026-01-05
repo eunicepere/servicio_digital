@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Servicios Digitales | Página en Venta</title>
+    <meta name="description" content="Página web profesional para servicios digitales. En venta con control total para el comprador.">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background: #0d6efd;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .venta {
+            background: #ffc107;
+            color: #000;
+            padding: 10px;
+            text-align: center;
+            font-weight: bold;
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 1000px;
+            margin: auto;
+            background: white;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #0d6efd;
+        }
+        .servicios {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        .card {
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        .btn {
+            display: inline-block;
+            background: #0d6efd;
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        footer {
+            background: #222;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="venta">
+    🚨 PÁGINA WEB EN VENTA – SE ENTREGA CON CONTROL TOTAL AL COMPRADOR 🚨
+</div>
+
+<header>
+    <h1>Agencia de Servicios Digitales</h1>
+    <p>Impulsamos negocios con soluciones digitales efectivas</p>
+    <a href="#contacto" class="btn">Contáctanos</a>
+</header>
+
+<section>
+    <h2>Sobre Nosotros</h2>
+    <p>
+        Somos una agencia especializada en servicios digitales, enfocada en ayudar a negocios
+        a mejorar s
